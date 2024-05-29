@@ -8,7 +8,7 @@ export default function IndexPage() {
     <section className="container grid items-center gap-6 pb-8 pt-6 md:py-10">
       <div className="flex max-w-[980px] flex-col items-start gap-2">
         <h1 className="text-3xl font-extrabold leading-tight tracking-tighter md:text-4xl">
-          Simple usage how to use Tailwind CSS with Next.js
+          Simple usage how to use Tailwind CSS with Next.js with customized settings
         </h1>
         <p className="text-muted-foreground max-w-[700px] text-lg">
           Click on <Link href={'/api-doc'}>Doc</Link> to see the swagger UI.
